@@ -135,8 +135,19 @@ input.form-control {
     height: 680px;
   }
 }
+@media (max-width: 567px) {
+  .description {
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 100;
+  }
+  .descriptionHead{
+    font-style: italic;
+  }
+}
 .animated-popup {
   animation: fadeIn 0.5s;
+  
 }
 
 @keyframes fadeIn {
