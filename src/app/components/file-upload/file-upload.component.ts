@@ -40,7 +40,7 @@ export class FileUploadComponent implements OnInit {
       this.exchangeRates = data.conversion_rates;
       this.currencies = Object.keys(this.exchangeRates).map((currency) => ({
         code: currency,
-        icon: `assets/curruncy.jpg` // Use the path to your icons
+        icon: `https://bakarhasan.github.io/Currency_Converter/assets/curruncy.jpg` // Use the path to your icons
       })); // List of currencies
     });
   }
