@@ -4,7 +4,7 @@ import { FileUploadComponent } from './components/file-upload/file-upload.compon
 const routes: Routes = [
   { path: '',
    component: FileUploadComponent,
-   pathMatch:'full'
+   pathMatch:'full',
   },
 ];
 
