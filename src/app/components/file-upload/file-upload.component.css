@@ -22,7 +22,7 @@ body {
 }
 
 .img1 {
-  height: 580px;
+  height: 480px;
 }
 
 .hidden {
@@ -132,7 +132,7 @@ input.form-control {
 
 @media (max-width: 767px) {
   .img1 {
-    height: 680px;
+    height: 480px;
   }
 }
 @media (max-width: 567px) {
