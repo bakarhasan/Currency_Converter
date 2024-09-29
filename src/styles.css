@@ -1,3 +1,9 @@
-body{
-    background-color: orange;
+
+
+
+.text-center{
+    text-align: center;
+}
+.mt{
+    margin-top: 20px;
 }
