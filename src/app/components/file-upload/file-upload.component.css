@@ -140,10 +140,14 @@ input.form-control {
   font-size: 15px;
   font-style: italic;
   font-weight: 100;
+  color: white;
+  font-weight: 400;
   }
   .descriptionHead{
     font-style: italic;
     font-weight: 100;
+    color: white;
+    font-weight: 400;
   }
 }
 .animated-popup {
