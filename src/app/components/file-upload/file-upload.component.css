@@ -22,7 +22,7 @@ body {
 }
 
 .img1 {
-  height: 480px;
+  height: 580px;
 }
 
 .hidden {
@@ -132,17 +132,18 @@ input.form-control {
 
 @media (max-width: 767px) {
   .img1 {
-    height: 480px;
+    height: 680px;
   }
 }
 @media (max-width: 567px) {
   .description {
-  font-size: 14px;
+  font-size: 15px;
   font-style: italic;
   font-weight: 100;
   }
   .descriptionHead{
     font-style: italic;
+    font-weight: 100;
   }
 }
 .animated-popup {
